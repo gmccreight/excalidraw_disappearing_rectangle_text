@@ -10,4 +10,4 @@
 	* add a new rectangle text
 * Copy the contents of the room back to the local file, then remove the existing rectangles
 * commit the drawing
-* Keep the test.excalidraw file open in a tab
+* Keep the test1.excalidraw file open in a tab
