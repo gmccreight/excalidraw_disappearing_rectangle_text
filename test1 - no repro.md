@@ -11,3 +11,5 @@
 * Copy the contents of the room back to the local file, then remove the existing rectangles
 * commit the drawing
 * Keep the test1.excalidraw file open in a tab
+* close it
+* copy _another_ version of the drawing from the room
